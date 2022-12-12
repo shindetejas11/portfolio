@@ -1,8 +1,8 @@
 // import { NgModule } from '@angular/core';
 // import { CommonModule } from '@angular/common';
 
-// // import { PromiseRoutingModule } from './promise-routing.module';
-// // import { PromisComponent } from './promis/promis.component';
+// import { PromiseRoutingModule } from './promise-routing.module';
+// import { PromisComponent } from './promis/promis.component';
 
 
 // @NgModule({
